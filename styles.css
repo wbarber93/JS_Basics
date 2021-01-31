@@ -1,13 +1,16 @@
 body {
     text-align: center;
-    background-color: #3a3729;
+    background-color: #000000;
+    color: white;
   }
 
   #clock { 
-    font-size: 175px; 
+    font-size: 150px; 
     width: 900px; 
-    margin: 200px; 
-    text-align: center; 
-    border: 2px solid black; 
-    border-radius: 20px; 
+    margin: auto; 
+    text-align: center;
+    border: 5px solid rgb(255, 255, 255); 
+    border-radius: 5px; 
+    position: relative;
+    bottom: 50px;
   } 
