@@ -10,3 +10,4 @@ CHANGELOG:
 29/01 - Added Basic_Website files
 30/01 - Added digital 12h clock using JS
 31/01 - Adjusted css file for colour and position of various elements
+01/02 - Added menu bar, formatted image positions, attempted to add timer function for images to appear
