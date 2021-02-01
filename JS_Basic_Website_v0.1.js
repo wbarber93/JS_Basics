@@ -26,3 +26,9 @@ function showTime() {
     document.getElementById("clock").innerHTML = currentTime;
 }
 showTime();
+
+setTimeout(Timer,106000);
+function Timer(){
+    document.getElementById('img1').style.display = "block"; 
+}
+Timer();
